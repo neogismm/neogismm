@@ -13,10 +13,10 @@ Software Engineer (AI / Backend) — building AI agents & event-driven systems a
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI%20Agents%20SDK-412991?style=flat&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-000000?style=flat)
+![RAG](https://img.shields.io/badge/RAG-6E40C9?style=flat)
 
 **Latest:** [`@neogp/agent-docs`](https://www.npmjs.com/package/@neogp/agent-docs) — an npm CLI that crawls documentation sites into token-optimized markdown for AI coding agents. *NotebookLM for coding agents.* 100+ downloads in week one.
 
-![Pritam's GitHub stats](https://github-readme-stats.vercel.app/api?username=neogismm&show_icons=true&hide_border=true&theme=transparent&hide_title=true)
+![Pritam's GitHub stats](https://github-readme-stats.vercel.app/api?username=neogismm&show_icons=true&hide_border=true&theme=transparent&hide_title=true&hide_rank=true)
 
 **Connect:** [LinkedIn](https://linkedin.com/in/pritamneog) · [npm](https://www.npmjs.com/package/@neogp/agent-docs) · work.neog@gmail.com
